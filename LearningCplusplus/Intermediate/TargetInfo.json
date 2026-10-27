@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LearningCplusplus",
+			"Path": "..\\Source\\LearningCplusplus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LearningCplusplusEditor",
+			"Path": "..\\Source\\LearningCplusplusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

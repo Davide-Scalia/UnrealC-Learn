@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\source\\learningcplusplus\\private\\rotatingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\intermediate\\build\\win64\\x64\\learningcpluspluseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\learningcplusplus\\definitions.learningcplusplus.h",
+            "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\source\\learningcplusplus\\public\\rotatingplatform.h",
+            "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\learningcplusplus\\uht\\rotatingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

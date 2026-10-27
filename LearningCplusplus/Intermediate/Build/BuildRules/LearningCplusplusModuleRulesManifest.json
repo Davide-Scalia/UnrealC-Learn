@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\ForkRepository\\LearnUnrealC++\\LearningCplusplus\\Source\\LearningCplusplus\\LearningCplusplus.Build.cs",
+		"C:\\ForkRepository\\LearnUnrealC++\\LearningCplusplus\\Source\\LearningCplusplus.Target.cs",
+		"C:\\ForkRepository\\LearnUnrealC++\\LearningCplusplus\\Source\\LearningCplusplusEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LearningCplusplus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/LearningCplusplusEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/LearningCplusplus.init.gen.cpp.obj"
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/RotatingPlatform.gen.cpp.obj"
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/LearningCplusplus.cpp.obj"
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/RotatingPlatform.cpp.obj"
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/PerModuleInline.gen.cpp.obj"
+"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/Default.rc2.res"
+/OUT:"C:/ForkRepository/LearnUnrealC++/LearningCplusplus/Intermediate/Build/Win64/x64/UnrealEditor/Development/LearningCplusplus/UnrealEditor-LearningCplusplus.lib"

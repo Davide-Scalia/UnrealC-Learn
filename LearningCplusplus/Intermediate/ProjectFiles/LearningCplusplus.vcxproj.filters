@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LearningCplusplus.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LearningCplusplus.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LearningCplusplusEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LearningCplusplus">
+      <UniqueIdentifier>{2F51076F-E79B-3C20-8AB0-34FC88A308B7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LearningCplusplus\LearningCplusplus.Build.cs">
+      <Filter>Source\LearningCplusplus</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LearningCplusplus\LearningCplusplus.cpp">
+      <Filter>Source\LearningCplusplus</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningCplusplus\LearningCplusplus.h">
+      <Filter>Source\LearningCplusplus</Filter>
+    </ClInclude>
+    <Filter Include="Source\LearningCplusplus\Private">
+      <UniqueIdentifier>{C1C679D3-6C4B-3061-A565-ABB832CF2F5A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LearningCplusplus\Private\RotatingPlatform.cpp">
+      <Filter>Source\LearningCplusplus\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\LearningCplusplus\Public">
+      <UniqueIdentifier>{0BEC79FC-EEED-3D64-BE1A-99C979419209}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LearningCplusplus\Public\RotatingPlatform.h">
+      <Filter>Source\LearningCplusplus\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

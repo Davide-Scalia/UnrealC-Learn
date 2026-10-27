@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\source\\learningcplusplus\\learningcplusplus.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\intermediate\\build\\win64\\x64\\learningcpluspluseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\learningcplusplus\\definitions.learningcplusplus.h",
+            "c:\\forkrepository\\learnunrealc++\\learningcplusplus\\source\\learningcplusplus\\learningcplusplus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
